@@ -1,0 +1,1 @@
+How can we create a simple game using Python and Matplotlib where a ladybug moves around the screen and tries to collect leaves while avoiding going out of bounds or colliding with itself?
